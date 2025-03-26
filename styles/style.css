@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.hero-div {
+  box-sizing: border-box;
+  min-height: 1px;
+  color: rgb(0, 0, 0);
+  font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  background: linear-gradient(to bottom, #d3e4ff, #ffffff);
+  padding: 80px 0;
+}
+
+.hero-text-div {
+  padding: 80px 0px 24px;
+  box-sizing: border-box;
+  zoom: 1;
+  float: none;
+  min-height: 1px;
+  width: 1128px;
+  display: block;
+  text-align: center;
+  clear: both;
+  margin: 0px auto;
+  max-width: 100%;
+}
+
+.hero-header {
+  font-size: 80px;
+  font-weight: 600;
+  letter-spacing: normal;
+  line-height: 96px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.hero-paragraph {
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 24px;
+  padding: 25px 0px 3px;
+  box-sizing: border-box;
+  margin-bottom: 22px;
+  margin-top: 0px;
+}
