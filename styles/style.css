@@ -52,7 +52,7 @@ body {
 /* News Section */
 .news-section {
   padding: 50px 20px;
-  background: linear-gradient(to bottom, #fff0e1, #ffffff);
+  background-color: #f4f4f4;
 }
 
 .section-header {
